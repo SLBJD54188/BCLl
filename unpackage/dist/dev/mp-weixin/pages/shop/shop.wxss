@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+uni-goods-nav {
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+}
+

@@ -1,0 +1,1 @@
+<view><view class="classifylist _div"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__"><view><image src="{{item.list_pic_url}}" mode></image>{{''+item.name+''}}<view style="color:red;" class="_div">{{''+item.retail_price}}</view></view></block></view></view>
